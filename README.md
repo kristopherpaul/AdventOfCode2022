@@ -2,14 +2,6 @@
 
 Welcome to my personal repository containing solutions for Advent of Code 2022! Advent of Code is an annual coding event that features daily programming puzzles throughout the month of December. This repository holds my solutions to the challenges presented in AoC 2022.
 
-## Table of Contents
-
-- [About Advent of Code](#about-advent-of-code)
-- [Solutions Structure](#solutions-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About Advent of Code
 
 Advent of Code is a series of coding challenges designed to be fun and engaging. Each day, starting from December 1st, a new challenge is released. Participants solve these challenges using programming languages of their choice. The challenges range in difficulty and cover various topics including algorithms, data structures, mathematics, and more.
