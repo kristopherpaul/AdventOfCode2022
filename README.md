@@ -25,7 +25,7 @@ In this repository, you'll find the solutions organized by days. Each day's fold
 
 ## Usage
 
-To run a solution, navigate to the respective day and part's folder and execute the provided code. If the solution requires input data, the `input.txt` file is provided in the same folder.
+To run a solution, navigate to the respective day and part's folder and execute the provided code. If the solution requires input data, the `inpd[day-number].txt` file is provided in the same folder.
 
 ## License
 
